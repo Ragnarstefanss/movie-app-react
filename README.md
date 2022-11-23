@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Moviedb Website
 Followed this tutorial https://www.youtube.com/watch?v=Ha2u6H_Y-Zg&ab_channel=codewithlari
 
 To be able to run this project, first create a file named .env in the main folder (e.g. "./") with variable
