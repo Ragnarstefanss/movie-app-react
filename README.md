@@ -1,6 +1,8 @@
 # React Moviedb Website
 Followed this tutorial https://www.youtube.com/watch?v=Ha2u6H_Y-Zg&ab_channel=codewithlari
 
+Website for this project: http://ragnarstefansson.com/movie-app-react/
+
 To be able to run this project, first create a file named .env in the main folder (e.g. "./") with variable
 ### `REACT_APP_MOVIE_KEY = "XXXXX"`
 replace XXXXX with your movie_db api key (get api key from https://www.themoviedb.org/)
