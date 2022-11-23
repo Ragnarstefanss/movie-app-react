@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 Followed this tutorial https://www.youtube.com/watch?v=Ha2u6H_Y-Zg&ab_channel=codewithlari
 
-### `create a file named .env in the main folder (e.g. "./") with variable -> REACT_APP_MOVIE_KEY = "XXXXX" replace XXXXX with your movie_db api key`
+To be able to run this project, first create a file named .env in the main folder (e.g. "./") with variable
+### `REACT_APP_MOVIE_KEY = "XXXXX"`
+replace XXXXX with your movie_db api key (get api key from https://www.themoviedb.org/)
 
 ![screenshot of website](https://raw.githubusercontent.com/Ragnarstefanss/movie-app-react/master/screenshots/screencapture-localhost-3000-2022-11-23-11_09_32.jpg?token=GHSAT0AAAAAABWSY2EMRNB6G2BB2OXJ3QHSY36B5SA)
 
